@@ -24,7 +24,7 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack project for a job 
 
  **1**. Clone the repository: 
 ```
-https://github.com/ravi-143kiran/Mern-Job-Web-App
+git clone https://github.com/ravi-143kiran/Mern-Job-Web-App
 ```
 **2**.  Install dependencies:
 
