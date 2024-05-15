@@ -32,6 +32,9 @@ https://github.com/yourusername/mern-job-web-app.git
 cd mern-job-web-app
 npm install
 ```
+
+![Alternate Text](/Employee%20Management%20System/Login.png "Login Page")
+
 **3**.  Configure environment variables:
 
 Create a `.env` file in the root directory and add the following variables:
