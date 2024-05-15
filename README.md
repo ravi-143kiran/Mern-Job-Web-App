@@ -32,6 +32,8 @@ https://github.com/yourusername/mern-job-web-app.git
 cd mern-job-web-app
 npm install
 ```
+## **All Jobs**
+![All Jobs](https://github.com/ravi-143kiran/Mern-Job-Web-App/assets/119074585/3dbdb453-b1d7-44dc-87a7-ab1db42c89b9)
 
  ## **Applicant Job Seeker**
 ![Applicant Job Seeker](https://github.com/ravi-143kiran/Mern-Job-Web-App/assets/119074585/726663f9-a428-4bb9-9fd2-9e9270016d5a)
