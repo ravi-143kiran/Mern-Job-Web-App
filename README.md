@@ -33,7 +33,7 @@ cd mern-job-web-app
 npm install
 ```
 
-**Applicant Job Seeker**
+ ## **Applicant Job Seeker**
 ![Applicant Job Seeker](https://github.com/ravi-143kiran/Mern-Job-Web-App/assets/119074585/726663f9-a428-4bb9-9fd2-9e9270016d5a)
 
 **3**.  Configure environment variables:
