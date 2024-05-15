@@ -32,6 +32,15 @@ https://github.com/yourusername/mern-job-web-app.git
 cd mern-job-web-app
 npm install
 ```
+# **Register Page**
+![Register](https://github.com/ravi-143kiran/Mern-Job-Web-App/assets/119074585/09eb9835-189f-41f1-999c-097490744220)
+
+# **Home Page**
+![Home](https://github.com/ravi-143kiran/Mern-Job-Web-App/assets/119074585/b5089f66-ae92-4228-bd0b-27622bfef7ba)
+
+# **Post New Job**
+![Post New Job](https://github.com/ravi-143kiran/Mern-Job-Web-App/assets/119074585/89ac4491-c00f-4541-9c02-20507abe1fe1)
+
 ## **All Jobs**
 ![All Jobs](https://github.com/ravi-143kiran/Mern-Job-Web-App/assets/119074585/3dbdb453-b1d7-44dc-87a7-ab1db42c89b9)
 
