@@ -33,7 +33,7 @@ cd mern-job-web-app
 npm install
 ```
 
-![Alternate Text](/Employee%20Management%20System/Login.png "Login Page")
+![alt text] (Home.png)
 
 **3**.  Configure environment variables:
 
