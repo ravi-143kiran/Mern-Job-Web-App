@@ -1,4 +1,4 @@
-###  MERN Stack Job Web App Project! 
+#  MERN Stack Job Web App Project! 
 ***
 This is a MERN (MongoDB, Express.js, React.js, Node.js) stack project for a job web application. It allows users to browse job listings, apply for jobs, and manage their job applications. 
 ## Features
