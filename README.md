@@ -24,7 +24,7 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack project for a job 
 
  **1**. Clone the repository: 
 ```
-https://github.com/yourusername/mern-job-web-app.git 
+https://github.com/ravi-143kiran/Mern-Job-Web-App
 ```
 **2**.  Install dependencies:
 
@@ -51,7 +51,7 @@ npm install
 
 Create a `.env` file in the root directory and add the following variables:
 ```
-PORT=5000
+PORT=8080
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 ```
