@@ -17,8 +17,8 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack project for a job 
   -  **Node.js:** A JavaScript runtime for running server-side code.
   -  **Redux (optional):** For managing application state, especially useful for complex applications with multiple components.
 -  **React Router:** For managing navigation within the application.
-    -  **Axios:** For making HTTP requests to interact with backend services or APIs.
-    -  **Bootstrap or Material-UI:** For UI components and styling, providing a consistent and modern design.
+-  **Axios:** For making HTTP requests to interact with backend services or APIs.
+-  **Bootstrap or Material-UI:** For UI components and styling, providing a consistent and modern design.
 
 ## Installation 
 
